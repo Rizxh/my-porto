@@ -1,9 +1,8 @@
 from PIL import Image
 import requests
 import streamlit as st
-import st_lottie
 import lottie
-import streamlit_lottie as lottie
+import streamlit_lottie as st_lottie
 
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
