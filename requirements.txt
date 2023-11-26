@@ -1,2 +1,2 @@
-lottie
 streamlit_lottie
+lottie
