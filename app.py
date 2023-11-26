@@ -21,7 +21,7 @@ local_css("style/style.css")
 
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://lottie.host/db664498-4f57-41d8-9d90-709ba5062150/6dGma5IClk.json")
-img_contact_form = Image.open("images/kalkuban.png")
+img_contact_form = Image.open("images/Kalkuban.png")
 img_lottie_animation = Image.open("images/yt-2.png")
 
 # ---- HEADER SECTION ----
