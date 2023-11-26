@@ -1,6 +1,7 @@
 from PIL import Image
 import requests
 import streamlit as st
+import st_lottie
 import lottie
 import streamlit_lottie as lottie
 
